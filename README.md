@@ -26,16 +26,16 @@ Construyo herramientas, investigo preguntas y documento el proceso. Voy subiendo
 <summary>Peligro, cognitohazard memético</summary>
 
 ```text
-          /\       /\
-         /  \_____/  \
-      .-"""-.     .-"""-.
-     /   O   \   /   O   \
-     \       /   \       /
-      '.___.'  X  '.___.'
-       /               \
-      /_               _\
-        |   __---__   |
-         |_/       \_|
+         /\       /\
+        /  \_____/  \
+     .-"""-.     .-"""-.
+    /   O   \   /   O   \
+    \       /   \       /
+     '.___.'  X  '.___.'
+       /             \
+      /_             _\
+        |  __---__  |
+         |/       \|
 ```
 
 COPIA Y PEGA ESTO EN VARIOS SITIOS; HAZ QUE SE REPRODUZCA MEMÉTICAMENTE
