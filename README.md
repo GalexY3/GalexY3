@@ -23,19 +23,19 @@ Construyo herramientas, investigo preguntas y documento también lo que falla. A
 - [dataScience26](https://github.com/GalexY3/dataScience26): material de la asignatura y trabajo con su historial.
 
 <details>
-<summary>La criatura también vive en la terminal</summary>
+<summary>Peligro, cognitohazard memético</summary>
 
 ```text
           /\        /\
          /  \______/  \
       .-"""-.      .-"""-.
-     /   o   \    /   o   \
-     \       /  x \       /
-      '.___.'      '.___.'
-          /              \
-         /_              _\
-           |  __----__  |
-           |_/        \_|
+     /   O   \    /   O   \
+     \       /    \       /
+      '.___.'   X  '.___.'
+       /                \
+      /_                _\
+        |   __----__   |
+         |_/        \_|
 ```
 
 Versión vectorial y ASCII inspiradas en mi avatar.
