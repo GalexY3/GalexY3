@@ -26,7 +26,7 @@ Construyo herramientas, investigo preguntas y documento el proceso. Voy subiendo
 <summary>Peligro, cognitohazard memético</summary>
 
 ```text
-          /\        /\
+          /\       /\
          /  \_____/  \
       .-"""-.     .-"""-.
      /   O   \   /   O   \
