@@ -1,7 +1,7 @@
 
 
 # GalexY
-<img src="assets/creature.svg" width="135" align="right" alt="Mi criatura amarilla de ojos enormes" />
+<img src="assets/creature.svg" width="140" align="right" alt="Mi criatura amarilla de ojos enormes" />
 **Sociología, código y experimentos.**
 
 Construyo herramientas, investigo preguntas y documento el proceso. Voy subiendo trabajos universitarios, prototipos y laboratorios exploratorios. Los proyectos marcados como **WIP** están en desarrollo.
@@ -10,8 +10,8 @@ Construyo herramientas, investigo preguntas y documento el proceso. Voy subiendo
 
 | Proyecto | Qué encontrarás |
 | --- | --- |
-| [Politics Fantasy League](https://github.com/GalexY3/politics-fantasy-league) · **WIP** | Prototipo fantasy de la política española, con investigación sociológica subyacente y mucho data science|
-| [Metodología AB](https://github.com/GalexY3/Metodologia-AB) · **WIP** | Protocolo de investigación, trazabilidad y evaluación del propio método. Es un método de prompting investigatorio probado con chatgpt chat |
+| [Politics Fantasy League](https://github.com/GalexY3/politics-fantasy-league) · **WIP** | Prototipo fantasy de la política española, con investigación sociológica subyacente y mucho data science.|
+| [Metodología AB](https://github.com/GalexY3/Metodologia-AB) · **WIP** | Protocolo de investigación, trazabilidad y evaluación del propio método. Es un método de prompting investigatorio probado con chatgpt chat. |
 | [Fe, razón y algoritmos](https://github.com/GalexY3/fe_razon_y_algoritmos) | Trabajo de Ciencia de Datos sobre títulos de YouTube y debate religioso. |
 | [Cifonóforo](https://github.com/GalexY3/Cifonoforo) | Una herramienta personal para registrar horas de trabajo, procrastinar menos, y estudiar de forma más saludable y adaptativa |
 
