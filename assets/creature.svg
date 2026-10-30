@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360" role="img" aria-labelledby="title desc">
+  <title id="title">La criatura de GalexY</title>
+  <desc id="desc">Criatura amarilla de orejas puntiagudas y ojos enormes, inspirada en el avatar de GitHub.</desc>
+  <rect width="360" height="360" rx="28" fill="#f4ff40"/>
+  <path d="M79 124 121 25 148 91 173 87 205 91 237 30 267 124 278 235 288 256 262 247 258 318 239 301 204 295 164 294 121 301 98 324 84 253 62 269 67 237Z" fill="#faffb0" stroke="#10120b" stroke-width="7" stroke-linejoin="round"/>
+  <ellipse cx="79" cy="173" rx="41" ry="51" fill="#fff" stroke="#10120b" stroke-width="7"/>
+  <ellipse cx="265" cy="177" rx="41" ry="48" fill="#fff" stroke="#10120b" stroke-width="7"/>
+  <ellipse cx="77" cy="186" rx="11" ry="16" fill="#10120b"/>
+  <ellipse cx="264" cy="189" rx="12" ry="16" fill="#10120b"/>
+  <path d="m178 192-12 23m1-20 14 12" fill="none" stroke="#10120b" stroke-width="7" stroke-linecap="square"/>
+</svg>
