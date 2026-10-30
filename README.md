@@ -1,7 +1,7 @@
 
 
 # GalexY
-<img src="assets/creature.svg" width="165" align="right" alt="Mi criatura amarilla de ojos enormes" />
+<img src="assets/creature.svg" width="145" align="right" alt="Mi criatura amarilla de ojos enormes" />
 **Sociología, código y experimentos.**
 
 Construyo herramientas, investigo preguntas y documento también lo que falla. Aquí conviven trabajos universitarios, prototipos y laboratorios exploratorios. Los proyectos marcados como **WIP** están en desarrollo; sus informes explican qué se ha probado y qué sigue pendiente.
@@ -27,15 +27,15 @@ Construyo herramientas, investigo preguntas y documento también lo que falla. A
 
 ```text
           /\        /\
-         /  \______/  \
-      .-"""-.      .-"""-.
-     /   O   \    /   O   \
-     \       /    \       /
-      '.___.'   X  '.___.'
-       /                \
-      /_                _\
-        |   __----__   |
-         |_/        \_|
+         /  \_____/  \
+      .-"""-.     .-"""-.
+     /   O   \   /   O   \
+     \       /   \       /
+      '.___.'  X  '.___.'
+       /               \
+      /_               _\
+        |   __---__   |
+         |_/       \_|
 ```
 
 Versión vectorial y ASCII inspiradas en mi avatar.
