@@ -6,6 +6,8 @@
 
 Construyo herramientas, investigo preguntas y documento el proceso. Voy subiendo trabajos universitarios, prototipos y laboratorios exploratorios. Los proyectos marcados como **WIP** están en desarrollo.
 
+
+
 ## Por dónde entrar
 
 | Proyecto | Qué encontrarás |
