@@ -1,7 +1,7 @@
 
 
 # GalexY
-<img src="assets/creature.svg" width="140" align="right" alt="Mi criatura amarilla de ojos enormes" />
+<img src="assets/creature.svg" width="120" align="right" alt="Mi criatura amarilla de ojos enormes" />
 **Sociología, código y experimentos.**
 
 Construyo herramientas, investigo preguntas y documento el proceso. Voy subiendo trabajos universitarios, prototipos y laboratorios exploratorios. Los proyectos marcados como **WIP** están en desarrollo.
